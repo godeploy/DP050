@@ -1,0 +1,11 @@
+### Lab 5 - Migrate SQL Workloads to SQL Database Managed Instance
+
+#### In development
+
+@@@danger
+**IMPORTANT**: The creation of an Azure SQL Database Managed Instance can take many hours. Microsoft World Wide Learning are currently working on a way to deliver a lab that will enable you to see how to perform a migration to Azure SQL Database Managed Instance in a more timely manner. In the meantime, you can explore how to perform a migration at the following Microsoft Cloud Workshop **`https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure`**, which takes approximately 3 hours. However, the trainer has no control over the management of this lab environment.
+@@@
+
+@@@danger
+**IMPORTANT**: SQL Managed instances consume a significant amount of Azure resources, targeted towards our business and enterprise customers, and it is **not recommended** that you create this on a personal subscription. If you should do this, you should monitor your Azure spending limits. 
+@@@
