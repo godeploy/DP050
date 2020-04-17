@@ -1,0 +1,27 @@
+### Module 0: Preparation Tasks
+
+@@@secondary
+
+****Objectives****
+
+After completing this lab, you will have:
+
+  * Installed Microsoft Office
+@@@
+
+#### Exercise 1: Installing Microsoft Office
+
+##### Task 1: Install Microsoft Office on the virtual machine.
+
+1. [ ] Send the **[CTRL+ALT+DEL](urn:it:godeploy:lab-guide:action-link:send-vm-key-combo?=CTRL%2BALT%2BDEL)** to **[LON-SQL](urn:it:godeploy:lab-guide:action-link:select-vm?=a72d4577-b1da-e911-8376-00155d026631)** and log in as **[Administrator](urn:it:godeploy:lab-guide:action-link:paste-vm-username?=a72d4577-b1da-e911-8376-00155d026631&i=0&d=Administrator)** and the password **[Pa55w.rd](urn:it:godeploy:lab-guide:action-link:paste-vm-password?=a72d4577-b1da-e911-8376-00155d026631&i=0&d=Pa55w.rd)**.
+
+1. [ ] Open **File Explorer** and double click the E: drive.
+
+1. [ ] Run **setup.exe** and leave Microsoft Office to install.  You do not need to wait for this to complete before continuing.
+
+@@@success
+**Results**: After completing this exercise, you should have installed Microsoft Office in preparation for future labs.
+@@@
+
+
+
